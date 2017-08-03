@@ -37,7 +37,7 @@ public class Prueba_Rep extends javax.swing.JFrame {
 
         label1.setFont(new java.awt.Font("Comic Sans MS", 0, 14)); // NOI18N
         label1.setForeground(new java.awt.Color(204, 0, 255));
-        label1.setText("Andrade");
+        label1.setText("Andrade T");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -49,7 +49,7 @@ public class Prueba_Rep extends javax.swing.JFrame {
                 .addContainerGap(130, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, 64, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(label1, javax.swing.GroupLayout.PREFERRED_SIZE, 117, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
