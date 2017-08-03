@@ -5,7 +5,8 @@
  */
 
 /**
- *
+ *Gabriela Andrade
+ * Jueves 3 de agosto
  * @author Español
  */
 public class Prueba_Rep extends javax.swing.JFrame {
